@@ -1,0 +1,21 @@
+test 1
+test 2
+this my working directory ,i.e. in my local machinee
+move all the files from my diretory one by one or all together 
+in working directory i can have many files ... in which i will move some imp. files to staging directory 
+Staging Directory------ a place where i have decided which file i want to move to local direcctory.
+Local Directory ------ from where i won't be able to see or access my working directory
+Remote Directory is GITHUB 
+W---S USE ADD COMMAND
+S---L USE COMMIT COMMAND
+L---R USE GIT PUSH -u origin master/min
+
+
+
+
+git init
+git add readme.md 
+git commit -m "first commit"
+git branch -m main/master
+git remote add origin https://github.com/Raghugithub9/Test112
+git push -u origin main 
